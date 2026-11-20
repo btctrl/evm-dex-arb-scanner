@@ -10,7 +10,7 @@ Asynchronous EVM DEX price scanner built with Python and `web3.py`. Concurrently
 ## Quickstart
 
 ```bash
-git clone https://github.com
+git clone git clone https://github.com/btctrl/evm-dex-arb-scanner
 cd evm-dex-arb-scanner
 pip install -r requirements.txt
 python scanner.py
